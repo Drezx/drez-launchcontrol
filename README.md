@@ -2,6 +2,8 @@
 - Standalone
 - easy to use
 
+# Dependency
+- https://github.com/Drezx/drez-keybinds
 # Showcase
 https://youtu.be/Eee3TPQ34ik
 
